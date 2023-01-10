@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="dinesh_photo.jpg" />
 
 <span style="float:right;padding:6px"> 
   Dinesh.Gaitonde@gmail.com <br> mobile: +1 408-xxx-xxxx <br> Citizenship: USA
@@ -8,20 +8,19 @@
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* 15 years experience in architecting FPGAs
+* Over 10 years experience in EDA for ASICs and FPGAs
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### AMD (Senior Fellow, 2022/10 - present)
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Leading a team responsible for architecting next generation AMD/Xilinx FPGAs and ACAP fabrics
+* Leading a team Responsible for performance evaluation of fabric and fabric adjacent SoC blocks
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Xilinx (Distinguished Engineer, 2011/06 - 2015/07) 
 
+* Managed team responsible for AMD/Xilinx FPGA architectures since Virtex7 (28nm)
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
