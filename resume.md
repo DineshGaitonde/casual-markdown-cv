@@ -7,16 +7,27 @@
 # Dinesh Gaitonde  
 
 ## Executive Summary
+* Over 20 years experience in the semiconductor industry
+* Several patents and publications in
+  * FPGA Fabric and NoC Architecture
+  * EDA algorithms for physical design in ASICs and FPGAs
+  * Static Timing Analysis, Delay Calcuation
+  * Performance Evaluation of fabric and fabric adjacent SoC blocks
 
-* 15 years experience in architecting FPGAs
-* Over 10 years experience in EDA for ASICs and FPGAs
 
 ## Working Experience
 
 #### AMD (Senior Fellow, 2022/10 - present)
 
-* Leading a team responsible for architecting next generation AMD/Xilinx FPGAs and ACAP fabrics
-* Leading a team Responsible for performance evaluation of fabric and fabric adjacent SoC blocks
+* Next Generation Fabric Architectures – Microarchitecture and performance evaluation
+* Reducing pessimism in methodologies to squeeze more PPA from products
+* Extending performance evaluation to more heterogenous platforms and newer workloads
+* Toolchains to manage the heterogenous integration at device and package levels of next gen platforms
+* Define market leading product offerings at next generation in terms of PPA
+* Align architectures with future algorithm and other tool capabilities
+* Predict architecture capabilities with better accuracy, and close the loop with product deliverables
+* Permit competitive use of FPGAs in more domains via heterogenous integrations
+
 
 #### Xilinx (Distinguished Engineer, 2011/06 - 2015/07) 
 
