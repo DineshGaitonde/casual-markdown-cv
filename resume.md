@@ -38,32 +38,34 @@
 #### Xilinx (Principal Engineer, 2005/08 - 2015/01)
 
 #### Synopsys (Sr. Staff Software Engr, 2003/10 - 2005/08)
-  * Part of the original team for physically aware synthesis - DC-Topo product
+
+* Part of the original team for physically aware synthesis - DC-Topo product
 
 #### Monterey Design Systems (MTS, 1998/04 - 2003/10)
-  * Placement, Physical Synthesis
-  * Design Analysis
+
+* Placement, Physical Synthesis
+* Design Analysis
 
 #### Motorola Inc. (Staff Software Engineer, 1995 - 1998)
-  * Power estimation and optimization
-  * Library characterization
-  * Delay calculation
-  * Static noise analysis
 
+* Power estimation and optimization
+* Library characterization
+* Delay calculation
+* Static noise analysis
 
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
 
 ## Education & Qualifications
 
-* Ph.D. Electrical Engineering (Carnegie Mellon, 1995)
-  * Yield optimizat1ion & prediction. Design for manufacturability.
-* M.Tech. Electrical Engineering (IIT Bombay, 1990)
-  * Worked on graph algos for efficient circuit simulation. Numerical algorithms.
-* B.Tech. Electrical Engineering (IIT Bombay 1988)
+#### Ph.D. Electrical Engineering (Carnegie Mellon, 1995)
+
+* Yield optimizat1ion & prediction. Design for manufacturability.
+
+#### M.Tech. Electrical Engineering (IIT Bombay, 1990)
+
+* Worked on graph algos for efficient circuit simulation. Numerical algorithms.
+  
+#### B.Tech. Electrical Engineering (IIT Bombay, 1988)
 
 ## Patents & Publications
-[Google Scholar Profile Link](https://scholar.google.com/citations?user=b4jzYOAAAAAJ&hl=en)
 
+[Google Scholar Profile Link](https://scholar.google.com/citations?user=b4jzYOAAAAAJ&hl=en)
